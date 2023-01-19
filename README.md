@@ -3,8 +3,8 @@
 Lerne den Arcade-Klassiker Snake in Unity zu entwickeln. In diesem Spiel steuert der Spieler eine Linie, die über den Verlauf des Spiels länger wird. Das Spiel ist verloren, wenn die Linie eine Wand oder sich selbst berührt. 
 
 - Schwierigkeitsgrad: Anfänger
-- Themen: Side-Scroller Game , Unendlich Objekte generieren 
-- Version: 2020.3.26f1
+- Themen: Kollisionen/Trigger, Schleifen, Listen
+- Version: 2021.3.14f1
 - [🧰 Assets Download]()
 - [🎮 Downloade das ganze Projekt]()
 - [🎬 YT Tutorial]()
