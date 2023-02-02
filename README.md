@@ -8,7 +8,7 @@ Lerne den Arcade-Klassiker Snake in Unity zu entwickeln. In diesem Spiel steuert
 - [🧰 Assets Download](https://github.com/PrezipGames/Snake/blob/main/Snake.unitypackage)
 - [🎮 Downloade das ganze Projekt](https://github.com/PrezipGames/Snake/archive/refs/heads/main.zip)
 - [🎬 YT Tutorial](https://youtu.be/TvmIRfuLT_Y)
-- [💬 Joint unserem Discord Server](https://discord.gg/kusy4JQ4)
+- [💬 Joint unserem Discord Server](https://discord.gg/cY5RW7D95u)
 - [👍 Abonniert um keine Videos zu verpassen](https://www.youtube.com/@prezipgames)
 
 ![](Images/Snake.png)
