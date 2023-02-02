@@ -5,7 +5,7 @@ Lerne den Arcade-Klassiker Snake in Unity zu entwickeln. In diesem Spiel steuert
 - Schwierigkeitsgrad: Anfänger
 - Themen: Kollisionen/Trigger, Schleifen, Listen
 - Version: 2021.3.14f1
-- [🧰 Assets Download]()
+- [🧰 Assets Download](https://github.com/PrezipGames/Snake/blob/main/Snake.unitypackage)
 - [🎮 Downloade das ganze Projekt]()
 - [🎬 YT Tutorial]()
 - [💬 Joint unserem Discord Server](https://discord.gg/kusy4JQ4)
